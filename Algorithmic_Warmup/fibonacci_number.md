@@ -53,6 +53,3 @@ input_n = int(input())
 print(fibonacci_number(input_n))
 ```
 
-```
-
-```
